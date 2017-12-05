@@ -17,4 +17,4 @@ Lưu ý: dùng macro _CRT_SECURE_NO_WARNINGS hoặc project Properties >> C/C++ 
 
 - Link:
 + Youtube Demo: https://youtu.be/yf-Kf9Bhqqs
-+ Link repository: https://github.com/truonghoangdon123/expenseManager
++ Github Repository: https://github.com/truonghoangdon123/expenseManager
