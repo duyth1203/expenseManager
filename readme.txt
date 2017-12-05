@@ -13,6 +13,8 @@ Một số thay đổi/ cải tiến về giao diện người dùng:
 - Đặt text placeholder vào các edit control để gợi ý nội dung người dùng nhập.
 - Vì chuyển Listview sang trang riêng nên edit control cho nội dung chi tiêu rộng rãi hơn.
 
+Lưu ý: dùng macro _CRT_SECURE_NO_WARNINGS hoặc project Properties >> C/C++ >> General >> bỏ "SDL checks" để biên dịch được hàm copy()
+
 - Link:
 + Youtube Demo: https://youtu.be/13gG20QC31E
 + Link repository: https://github.com/truonghoangdon123/expenseManager
