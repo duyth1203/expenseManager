@@ -19,4 +19,4 @@ Một số thay đổi/ cải tiến về giao diện người dùng:
 
 Link:
 - Youtube Demo: https://youtu.be/yf-Kf9Bhqqs
-- Link repository: https://github.com/truonghoangdon123/expenseManager
+- Repository: https://github.com/truonghoangdon123/expenseManager
