@@ -5,7 +5,7 @@ vector<expense> importDB()
 {
 	vector<expense> e;
 	ifstream fi;
-	fi.open("em.db", ios::in);
+	fi.open("emdb.txt", ios::in);
 
 	if (fi.is_open())
 	{
@@ -58,7 +58,7 @@ vector<expense> importDB()
 int exportDB(int curIndex, TCHAR *content, TCHAR *amount)
 {
 	wofstream fo;
-	fo.open("em.db", ios::out | ios::app);
+	fo.open("emdb.db", ios::out | ios::app);
 	if (fo.is_open())
 	{
 		fo << curIndex << "&&" << content << "&&&" << amount << endl;
