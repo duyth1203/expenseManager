@@ -16,5 +16,5 @@ Một số thay đổi/ cải tiến về giao diện người dùng:
 Lưu ý: dùng macro _CRT_SECURE_NO_WARNINGS hoặc project Properties >> C/C++ >> General >> bỏ "SDL checks" để biên dịch được hàm copy()
 
 - Link:
-+ Youtube Demo: https://youtu.be/13gG20QC31E
++ Youtube Demo: https://youtu.be/yf-Kf9Bhqqs
 + Link repository: https://github.com/truonghoangdon123/expenseManager
