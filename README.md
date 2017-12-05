@@ -1,7 +1,9 @@
 # expenseManager
 
 MSSV: 1412100
+
 Họ và tên: Trương Hoàng Duy
+
 Email: 1412100@student.hcmus.edu.vn (hoặc truonghoangdon123@gmail.com)
 
 Các chức năng đã thực hiện được:
@@ -15,6 +17,6 @@ Một số thay đổi/ cải tiến về giao diện người dùng:
 - Đặt text placeholder vào các edit control để gợi ý nội dung người dùng nhập.
 - Vì chuyển Listview sang trang riêng nên edit control cho nội dung chi tiêu rộng rãi hơn.
 
-- Link:
-+ Youtube Demo: https://youtu.be/13gG20QC31E
-+ Link repository: https://github.com/truonghoangdon123/expenseManager
+Link:
+- Youtube Demo: https://youtu.be/13gG20QC31E
+- Link repository: https://github.com/truonghoangdon123/expenseManager
