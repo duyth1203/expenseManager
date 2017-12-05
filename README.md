@@ -18,5 +18,5 @@ Một số thay đổi/ cải tiến về giao diện người dùng:
 - Vì chuyển Listview sang trang riêng nên edit control cho nội dung chi tiêu rộng rãi hơn.
 
 Link:
-- Youtube Demo: https://youtu.be/13gG20QC31E
+- Youtube Demo: https://youtu.be/yf-Kf9Bhqqs
 - Link repository: https://github.com/truonghoangdon123/expenseManager
